@@ -1,0 +1,16 @@
+header {
+    background-color: brown;
+    max-width: 1250px;
+}
+
+body {
+    max-width: 1250px;
+    background-color: lightpink;
+}
+
+p {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color:black;
+}
