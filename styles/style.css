@@ -1,0 +1,30 @@
+header {
+    background-color: brown;
+}
+
+body {
+    background-color: lightpink;
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#header {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+}
+
+.portada {
+    background-image: aquamarine;
+    padding: 2rem;
+}
+
+.portada p {
+    color: black;
+}
