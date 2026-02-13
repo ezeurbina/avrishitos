@@ -6,10 +6,12 @@ body {
     background-color: lightpink;
 }
 
+div {
+    padding-top: 1em;
+}
+
 p {
     color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 
 #header {
@@ -20,11 +22,19 @@ p {
     color: black;
 }
 
-.portada {
-    background-image: aquamarine;
-    padding: 2rem;
+.dosfotos {
+    max-width: 100%;
 }
 
-.portada p {
-    color: black;
+.dosfotos img {
+    max-width: 49%;
+    object-fit: cover;
+}
+
+.novios {
+    max-width: 100%;
+}
+
+.novios img {
+    object-fit: cover;
 }
