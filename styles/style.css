@@ -1,16 +1,30 @@
 header {
     background-color: brown;
-    max-width: 1250px;
 }
 
 body {
-    max-width: 1250px;
     background-color: lightpink;
 }
 
 p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#header {
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
-    color:black;
+    font-weight: bold;
+    color: black;
+}
+
+.portada {
+    background-image: aquamarine;
+    padding: 2rem;
+}
+
+.portada p {
+    color: black;
 }
