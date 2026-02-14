@@ -6,10 +6,6 @@ body {
     background-color: lightpink;
 }
 
-div {
-    padding-top: 1rem;
-}
-
 p {
     color: black;
 }
@@ -37,7 +33,10 @@ h3 {
 .unafoto {
     max-width: 100%;
     height: 720px;
-    padding-bottom: 2rem;
+}
+
+.unafoto img {
+    object-fit: cover;
 }
 
 .dosfotos {
